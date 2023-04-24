@@ -1,0 +1,18 @@
+﻿<Window x:Class="AMONIC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AMONIC"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Margin="181,41,0,0" Source="J:\Основная лабуда\Алгоритмы\УП - 05 ЕГОРОВ ДОЛБИТ СПАЙСЫ\УЧ.05\Общие ресурсы\Images\DS2017_TP09_color@2x.png" Stretch="Fill" Height="137" VerticalAlignment="Top" HorizontalAlignment="Left" Width="459"/>
+        <TextBox FontFamily="TeX Gyre Adventor" Name="Login"  HorizontalAlignment="Left" BorderBrush="Black" BorderThickness="2" Margin="200,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="440" Height="22"/>
+        <TextBlock FontFamily="TeX Gyre Adventor" HorizontalAlignment="Left" Margin="132,226,0,0" TextWrapping="Wrap" Text="Username:" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="Password" FontFamily="TeX Gyre Adventor" HorizontalAlignment="Left" BorderBrush="Black" BorderThickness="2" Margin="200,284,0,0" VerticalAlignment="Top" Width="440" Height="22"/>
+        <TextBlock  FontFamily="TeX Gyre Adventor" HorizontalAlignment="Left" Margin="132,286,0,0" TextWrapping="Wrap" Text="Password:" VerticalAlignment="Top"/>
+        <Button FontFamily="TeX Gyre Adventor" Background="White" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" BorderThickness="2" Content="Login" HorizontalAlignment="Left" Margin="240,344,0,0" VerticalAlignment="Top" Width="120" Height="25" Click="ButtonLogin_Click"/>
+        <Button FontFamily="TeX Gyre Adventor" Background="White" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" BorderThickness="2" Content="Exit" HorizontalAlignment="Left" Margin="420,344,0,0" VerticalAlignment="Top" Width="119" Height="25" Click="ButtonExit_Click"/>
+    </Grid>
+</Window>

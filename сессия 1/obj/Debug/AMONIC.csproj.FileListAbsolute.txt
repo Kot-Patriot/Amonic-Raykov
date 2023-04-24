@@ -1,0 +1,108 @@
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\bin\Debug\AMONIC.exe.config
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\bin\Debug\AMONIC.exe
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\bin\Debug\AMONIC.pdb
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\Login.g.cs
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\App.g.cs
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC_MarkupCompile.cache
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC_MarkupCompile.lref
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\Login.baml
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC.g.resources
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC.Properties.Resources.resources
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC.csproj.GenerateResource.cache
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC.exe
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC.pdb
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\bin\Debug\EntityFramework.dll
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\bin\Debug\EntityFramework.SqlServer.dll
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\bin\Debug\EntityFramework.xml
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\bin\Debug\EntityFramework.SqlServer.xml
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\bin\Debug\ru\EntityFramework.resources.dll
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\Page.g.cs
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC_Content.g.cs
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\Page.baml
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AMONIC.csproj.CopyComplete
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AddEditWindow.g.cs
+F:\3 курс\Данил Павлович\УЧ.05\AMONIC\obj\Debug\AddEditWindow.baml
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\bin\Debug\AMONIC.exe.config
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\bin\Debug\AMONIC.exe
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\bin\Debug\AMONIC.pdb
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\bin\Debug\EntityFramework.dll
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\bin\Debug\EntityFramework.SqlServer.dll
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\bin\Debug\EntityFramework.xml
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\bin\Debug\EntityFramework.SqlServer.xml
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\bin\Debug\ru\EntityFramework.resources.dll
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AddEditWindow.g.cs
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\Login.g.cs
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\Page.g.cs
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\App.g.cs
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC_Content.g.cs
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC_MarkupCompile.cache
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC_MarkupCompile.lref
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AddEditWindow.baml
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\Login.baml
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\Page.baml
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC.g.resources
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC.Properties.Resources.resources
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC.csproj.GenerateResource.cache
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC.csproj.CopyComplete
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC.exe
+G:\3 курс\Данил Павлович\УЧ.05\AMONIC SES1\obj\Debug\AMONIC.pdb
+C:\Users\User\Desktop\AMONIC SES1\bin\Debug\AMONIC.exe.config
+C:\Users\User\Desktop\AMONIC SES1\bin\Debug\AMONIC.exe
+C:\Users\User\Desktop\AMONIC SES1\bin\Debug\AMONIC.pdb
+C:\Users\User\Desktop\AMONIC SES1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\AMONIC SES1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\AMONIC SES1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\AMONIC SES1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\AMONIC SES1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AddEditWindow.g.cs
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\Login.g.cs
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\Page.g.cs
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC_Content.g.cs
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC_MarkupCompile.cache
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC_MarkupCompile.lref
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AddEditWindow.baml
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\Login.baml
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\Page.baml
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC.g.resources
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC.Properties.Resources.resources
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC.csproj.GenerateResource.cache
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC.csproj.CopyComplete
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC.exe
+C:\Users\User\Desktop\AMONIC SES1\obj\Debug\AMONIC.pdb
+C:\Users\User\Desktop\сессия 1\bin\Debug\AMONIC.exe.config
+C:\Users\User\Desktop\сессия 1\bin\Debug\AMONIC.exe
+C:\Users\User\Desktop\сессия 1\bin\Debug\AMONIC.pdb
+C:\Users\User\Desktop\сессия 1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\сессия 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\сессия 1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\сессия 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\сессия 1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\сессия 1\obj\Debug\AddEditWindow.g.cs
+C:\Users\User\Desktop\сессия 1\obj\Debug\Login.g.cs
+C:\Users\User\Desktop\сессия 1\obj\Debug\Page.g.cs
+C:\Users\User\Desktop\сессия 1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC_Content.g.cs
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC_MarkupCompile.cache
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC_MarkupCompile.lref
+C:\Users\User\Desktop\сессия 1\obj\Debug\AddEditWindow.baml
+C:\Users\User\Desktop\сессия 1\obj\Debug\Login.baml
+C:\Users\User\Desktop\сессия 1\obj\Debug\Page.baml
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC.g.resources
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC.Properties.Resources.resources
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC.csproj.GenerateResource.cache
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC.csproj.CopyComplete
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC.exe
+C:\Users\User\Desktop\сессия 1\obj\Debug\AMONIC.pdb
